@@ -38,6 +38,5 @@ share/
 Thumbs.db
 
 # Project specific
-suspicious_transactions.json
 *.log
 EOF
